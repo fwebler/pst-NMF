@@ -14,12 +14,12 @@ This repository contains implementations for computing the stability of non-nega
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/fwebler/pst-NMF.git
 ```
 
 2. Navigate to the cloned directory:
 ```bash
-cd <repository_directory>
+cd pst-NMF
 ```
 
 3. Install the required dependencies:
