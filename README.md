@@ -29,10 +29,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-You can execute the provided code as a standard Python script:
+You can execute the main.py code as a standard Python script using the MNIST example data or replace it with your own data:
 
 ```bash
-python <script_name>.py
+python main.py
 ```
 
 ## Description of the Code
